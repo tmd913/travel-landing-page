@@ -5,12 +5,12 @@
 
 #premium {
     margin-right: 5px;
-    color: #0a023c;
+    /* color: #0a023c; */
 }
 
 #free {
     margin-left: 5px;
-    color: #0a023c; 
+    /* color: #0a023c;  */
 }
 
 .form-control {
@@ -24,10 +24,20 @@
     background-size: cover;
 }
 
-.display-4 {
-    margin-top: 100px;
+.container {
+    background: rgba(255, 254, 254, 0.699);
+    border-radius: 20px;
+    padding: 10px 0;
+    margin-top: 80px;
+    /* opacity: 0.5; */
+    /* background-image: url(stripes-light.png); */
 }
 
-/* .container {
-    background-color: antiquewhite;
-} */
+.display-4 {
+    /* margin-top: 100px; */
+}
+
+.opacity-1 {
+    /* opacity: 1 !important; */
+    /* z-index: 3; */
+}
