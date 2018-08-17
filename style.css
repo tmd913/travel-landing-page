@@ -21,3 +21,11 @@
     background-image: url(./jumbo_image.png);
     background-size: cover;
 }
+
+.display-4 {
+    margin-top: 100px;
+}
+
+/* .container {
+    background-color: antiquewhite;
+} */
