@@ -1,18 +1,29 @@
 .jumbotron {
-    height: 600px;
+    height: 720px;
     text-align: center;
 }
 
 #premium {
     margin-right: 5px;
+    color: #0a023c;
 }
 
 #free {
     margin-left: 5px;
+    color: #0a023c; 
 }
 
 .form-control {
     width: 35%;
     margin: 0 auto;
     margin-bottom: 10px;
+}
+
+.jumbotron {
+    background-image: url(./jumbo_image.png);
+    background-size: cover;
+}
+
+.display-4 {
+    margin-top: 10px
 }
