@@ -5,10 +5,12 @@
 
 #premium {
     margin-right: 5px;
+    color: #0a023c;
 }
 
 #free {
     margin-left: 5px;
+    color: #0a023c; 
 }
 
 .form-control {
