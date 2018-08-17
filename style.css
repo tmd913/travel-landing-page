@@ -1,5 +1,5 @@
 .jumbotron {
-    height: 600px;
+    height: 720px;
     text-align: center;
 }
 
@@ -15,4 +15,9 @@
     width: 35%;
     margin: 0 auto;
     margin-bottom: 10px;
+}
+
+.jumbotron {
+    background-image: url(./jumbo_image.png);
+    background-size: cover;
 }
